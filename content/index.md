@@ -1,5 +1,5 @@
 ---
-title: Welcome to D&D
+title: Labranche's D&D Playground
 ---
 
 # Information
